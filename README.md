@@ -1,4 +1,4 @@
-# Vue
+# Vue JS
 
 
 ## Quick Start
